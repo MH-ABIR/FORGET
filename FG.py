@@ -1,3 +1,3 @@
 
-import fg
-fg.file_inp()
+import cf
+cf.autom_main()
