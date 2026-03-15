@@ -1,3 +1,3 @@
 
-import cf
-cf.autom_main()
+import fg
+fg.autom_main()
