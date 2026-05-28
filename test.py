@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
 import c
-c.run()
+c.autom_main()
