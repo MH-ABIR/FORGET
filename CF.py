@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
 import cf
-cf.main()
+cf.auto_main()
